@@ -5,6 +5,9 @@
     console.log(findLargest(500,20,30));
 }
  */
+let a 
+let b
+let c
 
 function findLargest(a, b, c) {
     if (a > b && a > c) {
