@@ -26,3 +26,7 @@ const game = {
       this.resources[resource] += amount;
   }
 };
+game.addResource('gold', 50);
+
+console.log(game);
+
